@@ -1,0 +1,14 @@
+d:\Developer\.NET\challenges\compareTriplets\bin\Debug\net8.0\compareTriplets.exe
+d:\Developer\.NET\challenges\compareTriplets\bin\Debug\net8.0\compareTriplets.deps.json
+d:\Developer\.NET\challenges\compareTriplets\bin\Debug\net8.0\compareTriplets.runtimeconfig.json
+d:\Developer\.NET\challenges\compareTriplets\bin\Debug\net8.0\compareTriplets.dll
+d:\Developer\.NET\challenges\compareTriplets\bin\Debug\net8.0\compareTriplets.pdb
+d:\Developer\.NET\challenges\compareTriplets\obj\Debug\net8.0\compareTriplets.GeneratedMSBuildEditorConfig.editorconfig
+d:\Developer\.NET\challenges\compareTriplets\obj\Debug\net8.0\compareTriplets.AssemblyInfoInputs.cache
+d:\Developer\.NET\challenges\compareTriplets\obj\Debug\net8.0\compareTriplets.AssemblyInfo.cs
+d:\Developer\.NET\challenges\compareTriplets\obj\Debug\net8.0\compareTriplets.csproj.CoreCompileInputs.cache
+d:\Developer\.NET\challenges\compareTriplets\obj\Debug\net8.0\compareTriplets.dll
+d:\Developer\.NET\challenges\compareTriplets\obj\Debug\net8.0\refint\compareTriplets.dll
+d:\Developer\.NET\challenges\compareTriplets\obj\Debug\net8.0\compareTriplets.pdb
+d:\Developer\.NET\challenges\compareTriplets\obj\Debug\net8.0\compareTriplets.genruntimeconfig.cache
+d:\Developer\.NET\challenges\compareTriplets\obj\Debug\net8.0\ref\compareTriplets.dll
